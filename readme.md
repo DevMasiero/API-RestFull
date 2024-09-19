@@ -78,16 +78,6 @@ A API disponibiliza os seguintes endpoints seguindo o padrão CRUD:
    curl -X GET http://localhost:3333/videos
    ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções, siga os passos abaixo:
-
-1. Fork o repositório.
-2. Crie uma nova branch (`git checkout -b minha-feature`).
-3. Faça suas alterações e commit (`git commit -m 'Adicionando uma nova feature'`).
-4. Envie para o repositório remoto (`git push origin minha-feature`).
-5. Abra um pull request.
-
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato pelo e-mail: andremasierodev@gmail.com
